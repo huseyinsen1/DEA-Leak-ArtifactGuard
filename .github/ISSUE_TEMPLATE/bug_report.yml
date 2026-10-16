@@ -1,0 +1,32 @@
+name: Reproducibility or software bug
+description: Report a problem in DEA ArtifactGuard 2.0 or the public validation suite.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please do not include confidential or institutionally protected DEA records in an issue.
+  - type: textarea
+    id: description
+    attributes:
+      label: Problem
+      description: What failed or behaved unexpectedly?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction steps
+      description: Commands and public-safe inputs sufficient to reproduce the issue.
+    validations:
+      required: true
+  - type: input
+    id: python
+    attributes:
+      label: Python version
+  - type: textarea
+    id: output
+    attributes:
+      label: Relevant output
+      description: Paste only non-confidential logs or error messages.
