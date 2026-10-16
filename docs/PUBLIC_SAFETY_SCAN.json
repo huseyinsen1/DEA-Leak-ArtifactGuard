@@ -1,0 +1,8 @@
+{
+  "scan_scope": "text files in regenerated public-safe archive",
+  "confidential_row_level_data_files_detected": false,
+  "direct_firm_identifier_files_detected": false,
+  "findings": [],
+  "note": "KOSGEB is mentioned only for provenance/affiliation/data-availability context; no KOSGEB row-level or derived numeric result file is included.",
+  "kosgeb_derived_numeric_result_files_included": false
+}
