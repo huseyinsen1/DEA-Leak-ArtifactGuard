@@ -1,0 +1,32 @@
+{
+  "cases": 20,
+  "aggregate_min_rates": {
+    "T0-X": 1.0,
+    "T0-Y": 1.0,
+    "T1-X": 1.0,
+    "T1-Y": 1.0
+  },
+  "details": [
+    {"dataset":"synthetic-1","orientation":"out","rts":"vrs","n_inefficient":27,"T0-X_eligible":27,"T0-X_exact":27,"T0-X_rate":1.0,"T0-Y_eligible":27,"T0-Y_exact":27,"T0-Y_rate":1.0,"T1-X_eligible":27,"T1-X_exact":27,"T1-X_rate":1.0,"T1-Y_eligible":27,"T1-Y_exact":27,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-1","orientation":"out","rts":"crs","n_inefficient":38,"T0-X_eligible":38,"T0-X_exact":38,"T0-X_rate":1.0,"T0-Y_eligible":38,"T0-Y_exact":38,"T0-Y_rate":1.0,"T1-X_eligible":38,"T1-X_exact":38,"T1-X_rate":1.0,"T1-Y_eligible":38,"T1-Y_exact":38,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-1","orientation":"in","rts":"vrs","n_inefficient":27,"T0-X_eligible":27,"T0-X_exact":27,"T0-X_rate":1.0,"T0-Y_eligible":27,"T0-Y_exact":27,"T0-Y_rate":1.0,"T1-X_eligible":27,"T1-X_exact":27,"T1-X_rate":1.0,"T1-Y_eligible":27,"T1-Y_exact":27,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-1","orientation":"in","rts":"crs","n_inefficient":38,"T0-X_eligible":38,"T0-X_exact":38,"T0-X_rate":1.0,"T0-Y_eligible":38,"T0-Y_exact":38,"T0-Y_rate":1.0,"T1-X_eligible":38,"T1-X_exact":38,"T1-X_rate":1.0,"T1-Y_eligible":38,"T1-Y_exact":38,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-2","orientation":"out","rts":"vrs","n_inefficient":24,"T0-X_eligible":24,"T0-X_exact":24,"T0-X_rate":1.0,"T0-Y_eligible":24,"T0-Y_exact":24,"T0-Y_rate":1.0,"T1-X_eligible":24,"T1-X_exact":24,"T1-X_rate":1.0,"T1-Y_eligible":24,"T1-Y_exact":24,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-2","orientation":"out","rts":"crs","n_inefficient":42,"T0-X_eligible":42,"T0-X_exact":42,"T0-X_rate":1.0,"T0-Y_eligible":42,"T0-Y_exact":42,"T0-Y_rate":1.0,"T1-X_eligible":42,"T1-X_exact":42,"T1-X_rate":1.0,"T1-Y_eligible":42,"T1-Y_exact":42,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-2","orientation":"in","rts":"vrs","n_inefficient":24,"T0-X_eligible":24,"T0-X_exact":24,"T0-X_rate":1.0,"T0-Y_eligible":24,"T0-Y_exact":24,"T0-Y_rate":1.0,"T1-X_eligible":24,"T1-X_exact":24,"T1-X_rate":1.0,"T1-Y_eligible":24,"T1-Y_exact":24,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-2","orientation":"in","rts":"crs","n_inefficient":42,"T0-X_eligible":42,"T0-X_exact":42,"T0-X_rate":1.0,"T0-Y_eligible":42,"T0-Y_exact":42,"T0-Y_rate":1.0,"T1-X_eligible":42,"T1-X_exact":42,"T1-X_rate":1.0,"T1-Y_eligible":42,"T1-Y_exact":42,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-3","orientation":"out","rts":"vrs","n_inefficient":29,"T0-X_eligible":29,"T0-X_exact":29,"T0-X_rate":1.0,"T0-Y_eligible":29,"T0-Y_exact":29,"T0-Y_rate":1.0,"T1-X_eligible":29,"T1-X_exact":29,"T1-X_rate":1.0,"T1-Y_eligible":29,"T1-Y_exact":29,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-3","orientation":"out","rts":"crs","n_inefficient":40,"T0-X_eligible":40,"T0-X_exact":40,"T0-X_rate":1.0,"T0-Y_eligible":40,"T0-Y_exact":40,"T0-Y_rate":1.0,"T1-X_eligible":40,"T1-X_exact":40,"T1-X_rate":1.0,"T1-Y_eligible":40,"T1-Y_exact":40,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-3","orientation":"in","rts":"vrs","n_inefficient":29,"T0-X_eligible":29,"T0-X_exact":29,"T0-X_rate":1.0,"T0-Y_eligible":29,"T0-Y_exact":29,"T0-Y_rate":1.0,"T1-X_eligible":29,"T1-X_exact":29,"T1-X_rate":1.0,"T1-Y_eligible":29,"T1-Y_exact":29,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-3","orientation":"in","rts":"crs","n_inefficient":40,"T0-X_eligible":40,"T0-X_exact":40,"T0-X_rate":1.0,"T0-Y_eligible":40,"T0-Y_exact":40,"T0-Y_rate":1.0,"T1-X_eligible":40,"T1-X_exact":40,"T1-X_rate":1.0,"T1-Y_eligible":40,"T1-Y_exact":40,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-4","orientation":"out","rts":"vrs","n_inefficient":33,"T0-X_eligible":33,"T0-X_exact":33,"T0-X_rate":1.0,"T0-Y_eligible":33,"T0-Y_exact":33,"T0-Y_rate":1.0,"T1-X_eligible":33,"T1-X_exact":33,"T1-X_rate":1.0,"T1-Y_eligible":33,"T1-Y_exact":33,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-4","orientation":"out","rts":"crs","n_inefficient":47,"T0-X_eligible":47,"T0-X_exact":47,"T0-X_rate":1.0,"T0-Y_eligible":47,"T0-Y_exact":47,"T0-Y_rate":1.0,"T1-X_eligible":47,"T1-X_exact":47,"T1-X_rate":1.0,"T1-Y_eligible":47,"T1-Y_exact":47,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-4","orientation":"in","rts":"vrs","n_inefficient":33,"T0-X_eligible":33,"T0-X_exact":33,"T0-X_rate":1.0,"T0-Y_eligible":33,"T0-Y_exact":33,"T0-Y_rate":1.0,"T1-X_eligible":33,"T1-X_exact":33,"T1-X_rate":1.0,"T1-Y_eligible":33,"T1-Y_exact":33,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-4","orientation":"in","rts":"crs","n_inefficient":47,"T0-X_eligible":47,"T0-X_exact":47,"T0-X_rate":1.0,"T0-Y_eligible":47,"T0-Y_exact":47,"T0-Y_rate":1.0,"T1-X_eligible":47,"T1-X_exact":47,"T1-X_rate":1.0,"T1-Y_eligible":47,"T1-Y_exact":47,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-5","orientation":"out","rts":"vrs","n_inefficient":33,"T0-X_eligible":33,"T0-X_exact":33,"T0-X_rate":1.0,"T0-Y_eligible":33,"T0-Y_exact":33,"T0-Y_rate":1.0,"T1-X_eligible":33,"T1-X_exact":33,"T1-X_rate":1.0,"T1-Y_eligible":33,"T1-Y_exact":33,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-5","orientation":"out","rts":"crs","n_inefficient":45,"T0-X_eligible":45,"T0-X_exact":45,"T0-X_rate":1.0,"T0-Y_eligible":45,"T0-Y_exact":45,"T0-Y_rate":1.0,"T1-X_eligible":45,"T1-X_exact":45,"T1-X_rate":1.0,"T1-Y_eligible":45,"T1-Y_exact":45,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-5","orientation":"in","rts":"vrs","n_inefficient":33,"T0-X_eligible":33,"T0-X_exact":33,"T0-X_rate":1.0,"T0-Y_eligible":33,"T0-Y_exact":33,"T0-Y_rate":1.0,"T1-X_eligible":33,"T1-X_exact":33,"T1-X_rate":1.0,"T1-Y_eligible":33,"T1-Y_exact":33,"T1-Y_rate":1.0},
+    {"dataset":"synthetic-5","orientation":"in","rts":"crs","n_inefficient":45,"T0-X_eligible":45,"T0-X_exact":45,"T0-X_rate":1.0,"T0-Y_eligible":45,"T0-Y_exact":45,"T0-Y_rate":1.0,"T1-X_eligible":45,"T1-X_exact":45,"T1-X_rate":1.0,"T1-Y_eligible":45,"T1-Y_exact":45,"T1-Y_rate":1.0}
+  ],
+  "verdict": "PASS"
+}
