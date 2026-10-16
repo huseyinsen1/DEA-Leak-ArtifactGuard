@@ -1,0 +1,20 @@
+{
+  "repository_name": "DEA-Leak-ArtifactGuard",
+  "suggested_description": "DEA-specific post-computation reconstruction-path analysis and minimum-loss release hardening for DEA result artifacts.",
+  "suggested_topics": [
+    "data-envelopment-analysis",
+    "information-security",
+    "privacy",
+    "reconstruction-attack",
+    "optimization",
+    "research-software",
+    "reproducibility"
+  ],
+  "default_branch": "main",
+  "planned_release_tag": "v2.0.0",
+  "author": "Hüseyin Şen",
+  "orcid": "0000-0002-3284-9629",
+  "publication_status": "RELEASE-READY — external publication not yet performed",
+  "license_status": "Final",
+  "license": "MIT"
+}
