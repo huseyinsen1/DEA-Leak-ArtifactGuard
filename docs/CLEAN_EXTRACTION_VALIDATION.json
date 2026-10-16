@@ -1,0 +1,46 @@
+{
+  "regenerated_archive": "DEA_Leak_Public_Safe_Reproducibility_v2.0.zip",
+  "validation_date": "2026-08-11",
+  "zip_integrity": "PASS",
+  "manifest": "PASS",
+  "clean_extraction_run_all": "PASS",
+  "algebra_selftest": {
+    "trials": 1000,
+    "verdict": "PASS",
+    "max_abs_T0": 3.552713678800501e-15,
+    "max_abs_T1": 0.0
+  },
+  "coordinate_campaign": {
+    "cases": 20,
+    "T0-X_min": 1.0,
+    "T0-Y_min": 1.0,
+    "T1-X_min": 1.0,
+    "T1-Y_min": 1.0,
+    "verdict": "PASS"
+  },
+  "release_audit": {
+    "release_subsets_per_orientation": 128,
+    "coordinate_risky_per_orientation": 62,
+    "legacy_coordinate_false_negatives": 52,
+    "full_record_risky_per_orientation": 10,
+    "legacy_full_record_false_negatives": 0,
+    "optimizer_oracle_checked": 144,
+    "objective_mismatches": 0,
+    "verdict": "PASS"
+  },
+  "unit_tests": {
+    "artifactguard_core": "12/12 PASS",
+    "native_record_tests": "2/2 PASS"
+  },
+  "wheel_build": "PASS",
+  "editable_install": "PASS",
+  "cli_smoke_test": {
+    "verdict": "PASS",
+    "balanced_coordinate_exact_suppression": [
+      "slack_x",
+      "slack_y"
+    ]
+  },
+  "public_safety_scan": "PASS; no confidential KOSGEB row-level data and no KOSGEB-derived numeric result file included",
+  "note": "Regenerated archive; not claimed byte-identical to the missing earlier validated archive."
+}
