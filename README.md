@@ -76,7 +76,9 @@ See [`DATA_AVAILABILITY.md`](DATA_AVAILABILITY.md). Do not upload confidential o
 
 ## Citation
 
-Citation metadata are provided in [`CITATION.cff`](CITATION.cff). The permanent Zenodo DOI will be added after the repository is released and archived.
+Citation metadata are provided in [`CITATION.cff`](CITATION.cff). The version-specific archived research software DOI is [`10.5281/zenodo.23423474`](https://doi.org/10.5281/zenodo.23423474) (reserved on Zenodo; activates when the deposit is published).
+
+This DOI identifies the archived `v2.0.0` software release. The underlying GitHub source release is [`v2.0.0`](https://github.com/huseyinsen1/DEA-Leak-ArtifactGuard/releases/tag/v2.0.0).
 
 ## License
 
