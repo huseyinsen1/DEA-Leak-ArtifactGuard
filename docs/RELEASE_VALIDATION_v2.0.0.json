@@ -1,0 +1,28 @@
+{
+  "release": "v2.0.0",
+  "validation_date": "2026-10-16",
+  "status": "PASS",
+  "repository": "huseyinsen1/DEA-Leak-ArtifactGuard",
+  "manifest_validation": "PASS",
+  "run_all": "PASS",
+  "artifactguard_core_tests": "12/12 PASS",
+  "native_record_tests": "2/2 PASS",
+  "coordinate_campaign": {
+    "cases": 20,
+    "minimum_exact_rate": 1.0
+  },
+  "optimizer_oracle": "144/144 PASS",
+  "release_subset_audit": {
+    "subsets_per_orientation": 128,
+    "coordinate_risky": 62,
+    "legacy_coordinate_false_negatives": 52,
+    "full_record_risky": 10,
+    "legacy_full_record_false_negatives": 0
+  },
+  "public_safety": {
+    "confidential_kosgeb_row_data_included": false,
+    "kosgeb_derived_numeric_result_files_included": false
+  },
+  "license": "MIT",
+  "note": "Final GitHub release-candidate validation after manifest-validator correction and release-metadata refresh."
+}
