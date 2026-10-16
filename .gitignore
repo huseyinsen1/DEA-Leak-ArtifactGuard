@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.env
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# Generated rerun outputs
+rerun_*.json
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Local secrets
+*.pem
+*.key
+.env.*
