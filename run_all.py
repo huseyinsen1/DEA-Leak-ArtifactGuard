@@ -4,6 +4,7 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parent
 ENV=dict(os.environ);ENV['PYTHONPATH']=str(ROOT/'src')+os.pathsep+str(ROOT/'experiments')+os.pathsep+ENV.get('PYTHONPATH','')
 commands=[
+ [sys.executable,'validate_manifest.py'],
  [sys.executable,'experiments/algebra_selftest.py','--out','rerun_algebra.json'],
  [sys.executable,'experiments/public_coordinate_campaign.py','--out','rerun_coordinate_campaign.json'],
  [sys.executable,'experiments/exhaustive_release_audit.py','--out','rerun_release_audit.json'],
