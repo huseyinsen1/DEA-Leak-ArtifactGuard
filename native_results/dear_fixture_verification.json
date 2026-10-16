@@ -1,0 +1,33 @@
+{
+  "prefix": "dear_fixture",
+  "orientation": "out",
+  "n": 6,
+  "chosen_score_convention": "reported",
+  "native_envelopment_scaled_max_residual": 0.0,
+  "score_convention_candidates": [
+    {
+      "residual": 0.0,
+      "name": "reported"
+    },
+    {
+      "residual": 0.6075471698113207,
+      "name": "reciprocal"
+    }
+  ],
+  "T1": {
+    "eligible_n": 2,
+    "exact_n": 2,
+    "exact_rate": 1.0,
+    "max_abs_error": 0.0,
+    "failures": []
+  },
+  "T0": {
+    "eligible_n": 2,
+    "exact_n": 2,
+    "exact_rate": 1.0,
+    "max_abs_error": 0.0,
+    "failures": []
+  },
+  "verdict": "PASS",
+  "note": "This verifier solves no DEA model; all reconstruction uses the native exported artifacts."
+}
