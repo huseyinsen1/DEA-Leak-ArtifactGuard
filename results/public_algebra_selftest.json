@@ -1,0 +1,6 @@
+{
+  "trials": 1000,
+  "max_abs_T0": 3.552713678800501e-15,
+  "max_abs_T1": 0.0,
+  "verdict": "PASS"
+}
