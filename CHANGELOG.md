@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.0.0 — 2026-08-11
+## 2.0.0 — 2026-10-16
 
 Initial public-safe research release accompanying the DEA-Leak manuscript.
 
